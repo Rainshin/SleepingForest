@@ -35,10 +35,14 @@ input, select, textarea, button {
 
 .campo {
     margin-bottom: 1em;
+    margin-right: 12em;
+    margin-left: 0.2em;
 }
 
 .campo label {
      margin-bottom: 0.2em;
+     margin-right: 12em;
+     margin-left: 0.2em;
      color: #59429d;
      display: block;
 }
